@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-gupta99
-- 👀 I’m interested in competitive programming ,data structures and algorithms,web development ,flutter.
-- 🌱 I’m currently learning data structures and algorithms.
+- 👀 I’m interested in competitive programming , app development ,kotlin.
+- 🌱 I’m currently learning app development .
 - 💞️ I’m looking to collaborate on cp
 - 📫 How to reach me Shavige Malleshwara Hills,Kumaraswamy Layout,Bengaluru-560078
 
