@@ -35,3 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-gupta99&show_icons=true&locale=en" alt="aditya-gupta99" /></p>
 
+
+ ![Snake animation](https://github.com/Aditya-gupta99/Aditya-gupta99/blob/output/github-contribution-grid-snake.svg)
