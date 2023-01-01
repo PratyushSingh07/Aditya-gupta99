@@ -32,5 +32,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-gupta99&show_icons=true&locale=en&layout=compact" alt="aditya-gupta99" /></p>
 <br>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-gupta99&show_icons=true&locale=en" alt="aditya-gupta99" /></p>
 
