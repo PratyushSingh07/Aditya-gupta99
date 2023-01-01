@@ -26,7 +26,7 @@
 
 <img
   src="https://github.com/Aditya-gupta99/Aditya-gupta99/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Aditya-gupta99 WakaTime Activity"
 />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-gupta99&show_icons=true&locale=en&layout=compact" alt="aditya-gupta99" /></p>
