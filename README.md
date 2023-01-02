@@ -33,11 +33,11 @@
  	<a href="https://twitter.com/Aditya_Gupta_99" rel="nofollow"><img src="https://camo.githubusercontent.com/008f85aee25d0f5bc0cf1c094b9119cadd815195417779a7d94623aa2d6ed53f/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f747769747465722d636972636c65642e706e67" alt="Twitter" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" style="max-width:100%;"></a>
   <a href="mailto:adityagupta9936ad@gmail.com"><img src="https://camo.githubusercontent.com/c841b41a94a72ef5dc5fcdb9e7b92951d73541fdbf0b62d7459cba13a9d8e016/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f656d61696c2e706e67" alt="Instagram" data-canonical-src="https://img.icons8.com/bubbles/50/000000/email.png" style="max-width:100%;"></a>
 </p>
-<!-- 
+
 <img
   src="https://github.com/Aditya-gupta99/Aditya-gupta99/blob/main/images/stat.svg"
   alt="Aditya-gupta99 WakaTime Activity"
-/> -->
+/>
 
 
 <!--START_SECTION:waka-->
