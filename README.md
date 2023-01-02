@@ -35,7 +35,7 @@
 </p>
 
 <img
-  src="https://github.com/Aditya-gupta99/Aditya-gupta99/blob/main/images/stat.svg"
+  src="https://raw.githubusercontent.com/Aditya-gupta99/Aditya-gupta99/main/images/stat.svg"
   alt="Aditya-gupta99 WakaTime Activity"
 />
 
